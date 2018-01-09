@@ -1,0 +1,17 @@
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\prodsys\bin\Debug\prodsys.exe.config
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\prodsys\bin\Debug\prodsys.exe
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\prodsys\bin\Debug\prodsys.pdb
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\prodsys\obj\Debug\Prod_mod.Form1.resources
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\prodsys\obj\Debug\prodsys.Properties.Resources.resources
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\prodsys\obj\Debug\Prod_mod.csproj.GenerateResource.Cache
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\prodsys\obj\Debug\prodsys.exe
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\prodsys\obj\Debug\prodsys.pdb
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod1\bin\Debug\prodsys.exe.config
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod1\obj\Debug\prodsys.exe
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod1\obj\Debug\prodsys.pdb
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod1\bin\Debug\prodsys.exe
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod1\bin\Debug\prodsys.pdb
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod1\obj\Debug\Prod_mod.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod1\obj\Debug\Prod_mod.Form1.resources
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod1\obj\Debug\prodsys.Properties.Resources.resources
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\ProdMod1\obj\Debug\Prod_mod.csproj.GenerateResource.Cache
